@@ -1,0 +1,13 @@
+print('********************************')
+print('Part1: Adding and Subtracting 2 numbers')
+print('********************************')
+print('Enter the 1st number:')
+num_1 = int(input())
+print('Enter the 2nd number:')
+num_2 = int(input())
+
+sum_num = num_1 + num_2
+print('Sum of 2 numbers: ', sum_num)
+
+diff_num = num_1 - num_2
+print('Subtract of 2 numbers: ', diff_num)

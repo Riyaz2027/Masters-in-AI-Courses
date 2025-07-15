@@ -1,0 +1,13 @@
+print('********************************')
+print('Part2: Multiplication and Division of 2 numbers')
+print('********************************')
+print('Enter the 1st number:')
+num_1 = int(input())
+print('Enter the 2nd number:')
+num_2 = int(input())
+
+mul_num = num_1 * num_2
+print('Multiplication of 2 numbers: ', mul_num)
+
+div_num = num_1 / num_2
+print('Division of 2 numbers: ', div_num)
