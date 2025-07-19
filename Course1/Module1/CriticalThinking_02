@@ -11,3 +11,4 @@ print('Multiplication of 2 numbers: ', mul_num)
 
 div_num = num_1 / num_2
 print('Division of 2 numbers: ', div_num)
+print('********************************')

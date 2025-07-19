@@ -11,3 +11,4 @@ print('Sum of 2 numbers: ', sum_num)
 
 diff_num = num_1 - num_2
 print('Subtract of 2 numbers: ', diff_num)
+print('********************************')
